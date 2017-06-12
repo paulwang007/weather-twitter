@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="cloud">cloud</string>
+    <string name="wind_speed">Wind speed: %.1f</string>
+    <string name="temperature">Celsius: %1$.1f Fahrenheit: %2$.1f</string>
+    <string name="next_5_days">Next 5 days</string>
+    <string name="standard_deviation">Standard Deviation: %.1f</string>
+</resources>
